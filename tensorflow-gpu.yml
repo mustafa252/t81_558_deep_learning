@@ -1,10 +1,10 @@
 name: tensorflow
  
 dependencies:
-    - python=3.7
+    - python=3.8
     - pip>=19.0
     - jupyter
-    - tensorflow-gpu=2.1.0
+    - tensorflow-gpu=2.2.0
     - scikit-learn
     - scipy
     - pandas
